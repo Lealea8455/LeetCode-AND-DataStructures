@@ -1,0 +1,16 @@
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\GeneralQuestionsTests.dll
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\GeneralQuestionsTests.pdb
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\projects\DataStructures\GeneralQuestionsTests\obj\Debug\GeneralQuestionsTests.csprojAssemblyReference.cache
+C:\projects\DataStructures\GeneralQuestionsTests\obj\Debug\GeneralQuestionsTests.csproj.CoreCompileInputs.cache
+C:\projects\DataStructures\GeneralQuestionsTests\obj\Debug\GeneralQuestionsTests.csproj.CopyComplete
+C:\projects\DataStructures\GeneralQuestionsTests\obj\Debug\GeneralQuestionsTests.dll
+C:\projects\DataStructures\GeneralQuestionsTests\obj\Debug\GeneralQuestionsTests.pdb
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\GeneralDS.dll
+C:\projects\DataStructures\GeneralQuestionsTests\bin\Debug\GeneralDS.pdb

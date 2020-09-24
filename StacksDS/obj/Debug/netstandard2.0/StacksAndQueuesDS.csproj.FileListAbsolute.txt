@@ -1,0 +1,13 @@
+C:\projects\DataStructures\StacksDS\bin\Debug\netstandard2.0\StacksAndQueuesDS.deps.json
+C:\projects\DataStructures\StacksDS\bin\Debug\netstandard2.0\StacksAndQueuesDS.dll
+C:\projects\DataStructures\StacksDS\bin\Debug\netstandard2.0\StacksAndQueuesDS.pdb
+C:\projects\DataStructures\StacksDS\bin\Debug\netstandard2.0\LinkedList.exe
+C:\projects\DataStructures\StacksDS\bin\Debug\netstandard2.0\LinkedList.pdb
+C:\projects\DataStructures\StacksDS\bin\Debug\netstandard2.0\LinkedList.exe.config
+C:\projects\DataStructures\StacksDS\obj\Debug\netstandard2.0\StacksAndQueuesDS.csprojAssemblyReference.cache
+C:\projects\DataStructures\StacksDS\obj\Debug\netstandard2.0\StacksAndQueuesDS.AssemblyInfoInputs.cache
+C:\projects\DataStructures\StacksDS\obj\Debug\netstandard2.0\StacksAndQueuesDS.AssemblyInfo.cs
+C:\projects\DataStructures\StacksDS\obj\Debug\netstandard2.0\StacksAndQueuesDS.csproj.CoreCompileInputs.cache
+C:\projects\DataStructures\StacksDS\obj\Debug\netstandard2.0\StacksAndQueuesDS.csproj.CopyComplete
+C:\projects\DataStructures\StacksDS\obj\Debug\netstandard2.0\StacksAndQueuesDS.dll
+C:\projects\DataStructures\StacksDS\obj\Debug\netstandard2.0\StacksAndQueuesDS.pdb

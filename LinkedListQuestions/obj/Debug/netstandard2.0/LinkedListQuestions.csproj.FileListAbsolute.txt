@@ -1,0 +1,13 @@
+C:\projects\DataStructures\LinkedListQuestions\bin\Debug\netstandard2.0\LinkedListQuestions.deps.json
+C:\projects\DataStructures\LinkedListQuestions\bin\Debug\netstandard2.0\LinkedListQuestions.dll
+C:\projects\DataStructures\LinkedListQuestions\bin\Debug\netstandard2.0\LinkedListQuestions.pdb
+C:\projects\DataStructures\LinkedListQuestions\bin\Debug\netstandard2.0\LinkedList.exe
+C:\projects\DataStructures\LinkedListQuestions\bin\Debug\netstandard2.0\LinkedList.pdb
+C:\projects\DataStructures\LinkedListQuestions\bin\Debug\netstandard2.0\LinkedList.exe.config
+C:\projects\DataStructures\LinkedListQuestions\obj\Debug\netstandard2.0\LinkedListQuestions.csprojAssemblyReference.cache
+C:\projects\DataStructures\LinkedListQuestions\obj\Debug\netstandard2.0\LinkedListQuestions.AssemblyInfoInputs.cache
+C:\projects\DataStructures\LinkedListQuestions\obj\Debug\netstandard2.0\LinkedListQuestions.AssemblyInfo.cs
+C:\projects\DataStructures\LinkedListQuestions\obj\Debug\netstandard2.0\LinkedListQuestions.csproj.CoreCompileInputs.cache
+C:\projects\DataStructures\LinkedListQuestions\obj\Debug\netstandard2.0\LinkedListQuestions.csproj.CopyComplete
+C:\projects\DataStructures\LinkedListQuestions\obj\Debug\netstandard2.0\LinkedListQuestions.dll
+C:\projects\DataStructures\LinkedListQuestions\obj\Debug\netstandard2.0\LinkedListQuestions.pdb

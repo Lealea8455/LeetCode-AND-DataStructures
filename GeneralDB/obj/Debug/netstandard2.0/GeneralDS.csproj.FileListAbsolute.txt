@@ -1,0 +1,9 @@
+C:\projects\DataStructures\GeneralDB\bin\Debug\netstandard2.0\GeneralDS.deps.json
+C:\projects\DataStructures\GeneralDB\bin\Debug\netstandard2.0\GeneralDS.dll
+C:\projects\DataStructures\GeneralDB\bin\Debug\netstandard2.0\GeneralDS.pdb
+C:\projects\DataStructures\GeneralDB\obj\Debug\netstandard2.0\GeneralDS.csprojAssemblyReference.cache
+C:\projects\DataStructures\GeneralDB\obj\Debug\netstandard2.0\GeneralDS.AssemblyInfoInputs.cache
+C:\projects\DataStructures\GeneralDB\obj\Debug\netstandard2.0\GeneralDS.AssemblyInfo.cs
+C:\projects\DataStructures\GeneralDB\obj\Debug\netstandard2.0\GeneralDS.csproj.CoreCompileInputs.cache
+C:\projects\DataStructures\GeneralDB\obj\Debug\netstandard2.0\GeneralDS.dll
+C:\projects\DataStructures\GeneralDB\obj\Debug\netstandard2.0\GeneralDS.pdb

@@ -1,0 +1,7 @@
+C:\projects\DataStructures\LinkedList\bin\Debug\LinkedList.exe.config
+C:\projects\DataStructures\LinkedList\bin\Debug\LinkedList.exe
+C:\projects\DataStructures\LinkedList\bin\Debug\LinkedList.pdb
+C:\projects\DataStructures\LinkedList\obj\Debug\LinkedListDS.csprojAssemblyReference.cache
+C:\projects\DataStructures\LinkedList\obj\Debug\LinkedListDS.csproj.CoreCompileInputs.cache
+C:\projects\DataStructures\LinkedList\obj\Debug\LinkedList.exe
+C:\projects\DataStructures\LinkedList\obj\Debug\LinkedList.pdb
