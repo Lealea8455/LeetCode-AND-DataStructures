@@ -234,6 +234,67 @@ namespace GeneralDS
             return result;
         }
 
-    
+        public static bool PalindromePermutation(string str)
+        {
+            Dictionary<char, int> charCount = new Dictionary<char, int>();
+
+            if (str.Length == 0 || str == null) return false;
+
+            foreach (char c in str)
+            {
+                if (!charCount.ContainsKey(c))
+                {
+                    charCount.Add(c, 1);
+                }
+                else
+                {
+                    charCount[c] += 1;  
+                }
+            }
+
+            int oddCharAppearenceAmount = 0;
+
+            foreach (var item in charCount)
+            {
+                if (item.Value % 2 != 0)
+                {
+                    if (oddCharAppearenceAmount == 0 && str.Length % 2 > 0) oddCharAppearenceAmount++;
+                    else return false;
+                }
+            }
+
+            return true;
+        }
+
+        public static string StringCompression(string str)
+        {
+            Dictionary<char, int> charAndItsOccurrence = new Dictionary<char, int>();
+
+            foreach (char c in str)
+            {
+                if (!charAndItsOccurrence.ContainsKey(c))
+                {
+                    charAndItsOccurrence.Add(c, 1);
+                }
+                else
+                {
+                    charAndItsOccurrence[c]++;
+                }
+            }
+
+            StringBuilder compressed = new StringBuilder();
+
+            foreach (KeyValuePair<char, int> pair in charAndItsOccurrence)
+            {
+                compressed.Append(pair.Key);
+                compressed.Append(pair.Value).ToString();
+            }
+
+           
+            if (compressed.Length >= str.Length) return str;
+            else return compressed.ToString();
+        }
+
+
     }
 }

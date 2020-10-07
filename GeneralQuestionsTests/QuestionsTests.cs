@@ -186,5 +186,26 @@ namespace GeneralQuestionsTests
 
         }
 
+        [TestMethod]
+        public void PalindromePermutation()
+        {
+            string str = "tactcoa";
+            bool expected = true;
+
+            bool actual = Questions.PalindromePermutation(str);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestMethod]
+        public void StringCompression()
+        {
+            string str = "aaabbcccd";
+            string expected = "a3b2c3d1";
+
+            string actual = Questions.StringCompression(str);
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
