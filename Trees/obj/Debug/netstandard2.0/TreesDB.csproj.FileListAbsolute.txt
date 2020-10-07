@@ -1,9 +1,0 @@
-C:\projects\DataStructures\Trees\bin\Debug\netstandard2.0\TreesDB.deps.json
-C:\projects\DataStructures\Trees\bin\Debug\netstandard2.0\TreesDB.dll
-C:\projects\DataStructures\Trees\bin\Debug\netstandard2.0\TreesDB.pdb
-C:\projects\DataStructures\Trees\obj\Debug\netstandard2.0\TreesDB.csprojAssemblyReference.cache
-C:\projects\DataStructures\Trees\obj\Debug\netstandard2.0\TreesDB.AssemblyInfoInputs.cache
-C:\projects\DataStructures\Trees\obj\Debug\netstandard2.0\TreesDB.AssemblyInfo.cs
-C:\projects\DataStructures\Trees\obj\Debug\netstandard2.0\TreesDB.csproj.CoreCompileInputs.cache
-C:\projects\DataStructures\Trees\obj\Debug\netstandard2.0\TreesDB.dll
-C:\projects\DataStructures\Trees\obj\Debug\netstandard2.0\TreesDB.pdb
